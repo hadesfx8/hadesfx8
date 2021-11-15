@@ -33,6 +33,8 @@ ______________
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/1111848377?si=c908edf643294d87)
 <br/>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hadesfx8&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <!---
 hadesfx8/hadesfx8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
