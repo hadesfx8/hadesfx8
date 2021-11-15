@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning in autodidact
 
 
-### Languages
+🚀 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
@@ -13,7 +13,21 @@
 
 ### Languages
 
-### Full Stack Projects
+### OS
+![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### Projects
+
+
+### My Setup
+![GTX](https://img.shields.io/badge/NVIDIA-GTX2070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+________
+
+![macbook](https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
+
+
 <!---
 hadesfx8/hadesfx8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
