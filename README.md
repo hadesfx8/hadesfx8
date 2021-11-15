@@ -1,4 +1,4 @@
-<p align="center"> ![Header](https://i.ibb.co/c8076yN/hds-logo.png) </p>
+<p align="center"> ![Header](https://i.ibb.co/c8076yN/hds-logo.png)
 
 # Hi, I’m @hadesfx8 <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
@@ -34,9 +34,9 @@ ______________
 ### Now Playing 🎧
 
 <p align="center"> [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/1111848377?si=c908edf643294d87)
-<br/></p>
+<br/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hadesfx8&show_icons=true&theme=gotham" alt="abhisheknaiidu" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hadesfx8&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <!---
 hadesfx8/hadesfx8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
