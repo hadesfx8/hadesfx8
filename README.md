@@ -18,12 +18,12 @@
 
 ### Fullstacks Projects
 ![Paradize](https://img.shields.io/badge/Paradize_City-off-red.svg)
-![DV](https://img.shields.io/badge/Death_Valley-on-green.svg)(http://death-valley.fr/)
+![DV](https://img.shields.io/badge/Death_Valley-on-green.svg)
+● http://death-valley.fr/
 
 ### Workspace Spec
 ![GTX](https://img.shields.io/badge/NVIDIA-GTX2070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-________
 ![macbook](https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Others skills
