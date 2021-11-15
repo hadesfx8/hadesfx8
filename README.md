@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @hadesfx8
+![Header](https://i.ibb.co/c8076yN/hds-logo.png)
+
+# Hi, I’m @hadesfx8 <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
 - 🌱 I’m currently learning in autodidact
 
