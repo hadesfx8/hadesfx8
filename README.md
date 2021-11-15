@@ -15,8 +15,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Fullstacks Projects
-![Paradize](https://img.shields.io/badge/Paradize_City-off-green.svg)
-![DV](https://img.shields.io/badge/Death_Valley-yes-green.svg)
+![Paradize](https://img.shields.io/badge/Paradize_City-off-red.svg)
+![DV](https://img.shields.io/badge/Death_Valley-on-green.svg)(http://death-valley.fr/)
 
 ### Workspace Spec
 ![GTX](https://img.shields.io/badge/NVIDIA-GTX2070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -24,7 +24,15 @@
 ________
 ![macbook](https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
 
+### Others skills
+![GTX](https://aleen42.github.io/badges/src/photoshop.svg)
+![GTX](https://aleen42.github.io/badges/src/after_effects.svg)
 
+______________
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/1111848377?si=c908edf643294d87)
+<br/>
 <!---
 hadesfx8/hadesfx8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
