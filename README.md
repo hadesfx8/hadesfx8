@@ -34,7 +34,7 @@
 ______________
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/1111848377?si=c908edf643294d87)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1111848377&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)]
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=hadesfx8&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
