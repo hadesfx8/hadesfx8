@@ -19,6 +19,7 @@
 ### Fullstacks Projects
 ![Paradize](https://img.shields.io/badge/Paradize_City-off-red.svg)
 ![DV](https://img.shields.io/badge/Death_Valley-off-red.svg)
+![RS](https://img.shields.io/badge/River_Side-off-red.svg)
 <br />
 
 ### Workspace Spec
