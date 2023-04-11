@@ -23,7 +23,7 @@
 <br />
 
 ### Workspace Spec
-![RX](https://img.shields.io/badge/AMD-Radeon-RX-6900-XT-76B900?style=for-the-badge&logo=amd&logoColor=white)
+![RX](https://img.shields.io/badge/AMD-Radeon_RX_6900_XT-76B900?style=for-the-badge&logo=amd&logoColor=white)
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_7_5800X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![macbook](https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
 
